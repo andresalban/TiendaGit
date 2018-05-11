@@ -1,0 +1,8 @@
+packege Tienda;
+
+public class Productos(){
+String nombre;
+long codigo;
+int precio;
+
+}
