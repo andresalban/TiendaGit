@@ -2,6 +2,7 @@ packege Tienda;
 
 public class Productos(){
 String nombre;
+int tamanio;
 long codigo;
 int precio;
 
